@@ -1,0 +1,50 @@
+.top{
+  border-radius: 0px 0px 100px 100px;
+  background: #25316D;
+  padding: 20px;
+  height: 450px;
+}
+body{
+  font-family: 'Josefin Sans', sans-serif;
+  color: #EDDBC7;
+}
+p{
+  font-family: 'Jost', sans-serif;
+
+}
+.sub-title{
+  padding: 50px 150px ;
+}
+h1{
+  padding-top: 100px;
+  padding-left: 100px;
+  font-family: 'Josefin Sans', sans-serif;
+  color: #EDDBC7;
+  font-size: 4.5rem;
+}
+h5{
+  font-family: 'Jost', sans-serif;
+  color: #25316D;
+}
+.navbar-toggler-icon:hover{
+  background-color: #EDDBC7;
+}
+.logo{
+  color: #EDDBC7;
+  font-size: 25px;
+  padding-left: 10px;
+  position: relative;
+  top: 80px;
+  left: 500px;
+}
+.arrow{
+  top:75px;
+  transform: rotate(90deg);
+}
+#content{
+  padding-top: 70px;
+  background-color: #FAF7F0;
+}
+.icon{
+  font-size: 100px;
+}
